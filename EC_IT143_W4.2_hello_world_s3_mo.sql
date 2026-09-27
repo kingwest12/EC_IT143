@@ -1,0 +1,4 @@
+
+SELECT 
+    'Hello World' AS Message;
+
